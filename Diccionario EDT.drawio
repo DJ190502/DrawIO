@@ -93,15 +93,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="jPXjNLpSxqyoNw8Wr4H1-82">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800.0588235294117" y="610" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="800" y="820" />
-              <mxPoint x="900" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-15" value="Finalizacion&lt;div&gt;1.4&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="540" width="120" height="60" as="geometry" />
         </mxCell>
@@ -309,11 +300,8 @@
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-74" value="Creacion de Manual de Usuario" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-79" value="Entrega de Software con Requisit" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-79" value="Entrega de Software con Requisitos cumplidos" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-82" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="840" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
