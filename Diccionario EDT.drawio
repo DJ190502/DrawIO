@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Página-1" id="6RzQy8bzMf23kyaS_7zr">
-    <mxGraphModel dx="1591" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-40" value="Derivación y clasificación de Requisitos&lt;div&gt;1.2.3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-41" value="Creación de Diagrama de Caso de Uso del Sistema 1.2.4" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-41" value="Creación de Diagrama de Caso de Uso del Sistema&amp;nbsp;&lt;div&gt;1.2.4&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="jPXjNLpSxqyoNw8Wr4H1-43" edge="1">
@@ -219,7 +219,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-51" value="Definición de la Arquitectura del Software&lt;div&gt;1.2.5&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-51" value="Definición de la Arquitectura del Software&lt;div&gt;1.2.6&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="jPXjNLpSxqyoNw8Wr4H1-53" edge="1">
@@ -232,7 +232,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-53" value="Análisis de Riesgos&lt;div&gt;1.2.5&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-53" value="Análisis de Riesgos&lt;div&gt;1.2.7&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="jPXjNLpSxqyoNw8Wr4H1-63" edge="1">
@@ -272,16 +272,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-63" value="Realización de la Implementacion/Codificacion del Software&lt;div&gt;1.2.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-63" value="Realización de la Implementacion/Codificacion del Software&lt;div&gt;1.3.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="640" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-64" value="&lt;div&gt;Realización de Pruebas Unitarias&lt;/div&gt;&lt;div&gt;1.2.2&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-64" value="&lt;div&gt;Realización de Pruebas Unitarias&lt;/div&gt;&lt;div&gt;1.3.2&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-65" value="&lt;div&gt;Realización de Pruebas Integración&lt;/div&gt;&lt;div&gt;1.2.3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-65" value="&lt;div&gt;Realización de Pruebas Integración&lt;/div&gt;&lt;div&gt;1.3.3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-66" value="&lt;div&gt;Realización de Pruebas de Sistema&lt;/div&gt;&amp;nbsp;1.2.4" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-66" value="&lt;div&gt;Realización de Pruebas de Sistema&lt;/div&gt;&amp;nbsp;1.3.4" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="jPXjNLpSxqyoNw8Wr4H1-68" edge="1">
@@ -294,7 +294,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-68" value="&lt;div&gt;Realización de Pruebas de Aceptacion&lt;/div&gt;&lt;div&gt;1.2.5&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-68" value="&lt;div&gt;Realización de Pruebas de Aceptacion&lt;/div&gt;&lt;div&gt;1.3.5&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-74" value="Creacion de Manual de Usuario&lt;div&gt;1.4.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
