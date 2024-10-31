@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Página-1" id="6RzQy8bzMf23kyaS_7zr">
-    <mxGraphModel dx="1354" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -73,7 +73,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-6" value="Planeacion&lt;div&gt;1.1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-6" value="Planeación&lt;div&gt;1.1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-9" value="&lt;div&gt;Diseño&lt;/div&gt;&lt;div&gt;1.2&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -96,13 +96,13 @@
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-15" value="Despliegue&lt;div&gt;1.4&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-22" value="Descripción de la situacion problematica&lt;div&gt;1.1.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-22" value="Descripción de la situación problemática&lt;div&gt;1.1.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-24" value="Alcance del proyecto 1.1.2" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-27" value="Estimación de Recurso&lt;div&gt;1.1.3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-27" value="Estimación de Recursos&lt;div&gt;1.1.3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-29" value="Modelación del negocio&lt;div&gt;1.1.4&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -148,7 +148,7 @@
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-38" value="Elección de tecnologias para el sistema&lt;div&gt;1.2.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-39" value="Selección infraestructura tecnologica&lt;div&gt;1.2.2&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-39" value="Selección infraestructura tecnológica&lt;div&gt;1.2.2&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-40" value="Derivación y clasificación de Requisitos&lt;div&gt;1.2.3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -272,7 +272,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-63" value="Realización de la Ejecucion/Codificacion del Software&lt;div&gt;1.3.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-63" value="Realización de la Desarrollo/Codificación del Software&lt;div&gt;1.3.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="640" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-64" value="&lt;div&gt;Realización de Pruebas Unitarias&lt;/div&gt;&lt;div&gt;1.3.2&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -294,14 +294,50 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-68" value="&lt;div&gt;Realización de Pruebas de Aceptacion&lt;/div&gt;&lt;div&gt;1.3.5&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-68" value="&lt;div&gt;Realización de Pruebas de Aceptación&lt;/div&gt;&lt;div&gt;1.3.5&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-74" value="Creacion de Manual de Usuario&lt;div&gt;1.4.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="jPXjNLpSxqyoNw8Wr4H1-74" value="Creación de Manual de Usuario&lt;div&gt;1.4.1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="840" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jPXjNLpSxqyoNw8Wr4H1-79" value="Entrega de Software con Requisitos cumplidos&lt;div&gt;1.4.2&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="840" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5QZPYc-nSUUJvzGsnrs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Z5QZPYc-nSUUJvzGsnrs-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="820" />
+              <mxPoint x="900" y="820" />
+            </Array>
+            <mxPoint x="800" y="700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z5QZPYc-nSUUJvzGsnrs-4" value="&lt;div&gt;Despliegue del sistema localmente&lt;/div&gt;&lt;div&gt;1.4.3&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5QZPYc-nSUUJvzGsnrs-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Z5QZPYc-nSUUJvzGsnrs-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="920" />
+              <mxPoint x="900" y="920" />
+            </Array>
+            <mxPoint x="800" y="800" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z5QZPYc-nSUUJvzGsnrs-6" value="&lt;div&gt;Despliegue del sistema a gran escala&lt;/div&gt;&lt;div&gt;1.4.4&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5QZPYc-nSUUJvzGsnrs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Z5QZPYc-nSUUJvzGsnrs-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="1020" />
+              <mxPoint x="900" y="1020" />
+            </Array>
+            <mxPoint x="800" y="900" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z5QZPYc-nSUUJvzGsnrs-10" value="&lt;div&gt;Mantenimiento del sistema&lt;/div&gt;&lt;div&gt;1.4.6&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
